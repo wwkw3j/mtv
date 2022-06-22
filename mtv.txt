@@ -1,5 +1,4 @@
-{"spider":"https://github.com/mys202299/mtv/blob/main/doraAmen.jar?raw=true;md5;52d581d7ad55ae8422842a4c4d51d143",
-
+{
 "sites":[
 {"key":"腾讯直采","name":"腾讯直采","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/"},
 {"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/"},
@@ -8,9 +7,7 @@
 ],
 
 "parses":[
-{"name":"293","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url="},
-{"name":"parwix","type":0,"url":"https://vip.parwix.com:4433/player/?url="},
-{"name":"nxflv","type":0,"url":"https://www.nxflv.com/?url="}
+{"name":"parwix","type":0,"url":"https://vip.parwix.com:4433/player/?url="}
 ],
 
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3l1bnBhbnBhbi5jbi9kb3duLnBocC8zYjIzNDNiNjlmNmY3OTM5NjhhNDAyMTBmMDA0MzYwYi50eHQ="
