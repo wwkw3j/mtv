@@ -7,10 +7,11 @@
 ],
 
 "parses":[
-{"name":"sohu","type":1,"url":"https://8700.top/api/?type=app&key=hdJPNHumGa905uqoee&url="},
-{"name":"parwix","url":"https://vip.parwix.com:4433/player/?url="},
-{"name":"rrmi","url":"https://jx.renrenmi.cc/?url="},
-{"name":"okjx","url":"https://okjx.cc/?url="}
+{"name":"8700","type":1,"url":"https://8700.top/api/?type=app&key=hdJPNHumGa905uqoee&url="},
+{"name":"Parwix","type":1,"url":"https://vip.parwix.com:4433/player/?url="},
+{"name":"追剧猫","type":1,"url":"https://jx.zjmiao.com/?url="},
+{"name":"人人迷","type":1,"url":"https://jx.renrenmi.cc/?url="},
+{"name":"OK解析","type":1,"url":"https://okjx.cc/?url="}
 ],
 
 "lives":[],
