@@ -7,7 +7,7 @@
 ],
 
 "parses":[
-{"name":"pro","type":1,"url":"https://8700.top/api/?type=app&key=hdJPNHumGa905uqoee&url="},
+{"name":"sohu","type":1,"url":"https://8700.top/api/?type=app&key=hdJPNHumGa905uqoee&url="},
 {"name":"parwix","url":"https://vip.parwix.com:4433/player/?url="},
 {"name":"rrmi","url":"https://jx.renrenmi.cc/?url="},
 {"name":"okjx","url":"https://okjx.cc/?url="}
