@@ -1,31 +1,21 @@
 {
 "sites":[
-{"key":"千寻影视","name":"千寻影视","type":0,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/"},
-{"key":"诺讯资源","name":"诺讯资源","type":0,"api":"http://caiji.nxflv.com/api.php/provide/vod/at/xml"},
-{"key":"江北资源","name":"江北资源","type":0,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml/"},
-{"key":"8090资源","name":"8090资源","type":0,"api":"http://zy.yilans.net:8090/api.php/provide/vod/at/xml"},
-{"key":"7788资源","name":"7788资源","type":0,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/at/xml"}
+{"key":"千寻影视","name":"千寻影视","type":1,"api":"https://gfzycj.hnmj.vip/api.php/provide/vod/"},
+{"key":"诺讯资源","name":"诺讯资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/"},
+{"key":"8090资源","name":"8090资源","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/"},
+{"key":"7788资源","name":"7788资源","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/"}
 ],
 
 "parses":[
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-
-{"name":"扶风","type":1,"url":"https://vip.byteamone.cn/api/?key=FOWGxF7kZJ51owjTTW&url="},
-{"name":"左岸","type":1,"url":"http://110.42.2.115:880/analysis/json/?uid=2233&my=eginqstBCJMNSUX689&url="},
-{"name":"尘烟","type":1,"url":"http://jifei.mrcy0.com/home/api?type=ys&uid=2276830&key=defhlprzAMSTXZ0567&url="},
-{"name":"必成","type":1,"url":"https://jisu.rongxingvr.top/api/?key=rCMmoKD0H0ShJ00u2f&url="},
-{"name":"馨香","type":1,"url":"https://one.qd234.cn/api/?key=tP8MTWZzft2P4Oevn9&url="},
-{"name":"嘉奖","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"鑫哥","type":1,"url":"http://jiexi.mmhkj.xyz/home/api?type=ys&uid=4187535&key=enpstuBEJKLNPUXZ19&url="},
-
 {"name":"m3u8","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"pro","type":1,"url":"https://8700.top/api/?type=app&key=hdJPNHumGa905uqoee&url="},
 {"name":"293","type":1,"url":"http://81.71.48.249:4456/jsonc/longxia.php?url=",
 "ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14(dart:io)"}}},
 
 {"name":"parwix","url":"https://vip.parwix.com:4433/player/?url="},
-{"name":"人人迷","url":"https://jx.renrenmi.cc/?url="}
+{"name":"RRmi","url":"https://jx.renrenmi.cc/?url="}
 ],
 
 "lives":[],
